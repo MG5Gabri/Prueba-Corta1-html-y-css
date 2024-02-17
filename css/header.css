@@ -1,0 +1,57 @@
+header {
+    width: 600px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(12, 183, 52);
+}
+
+.section {
+    width: 600px;
+    height: 500px;
+    display: flex;
+    background-color: rgb(12, 183, 52);
+
+}
+
+.div1 {
+    width: 200px;
+    height: 490px;
+    padding: 5px;
+    gap: 10px;
+}
+
+.cuadrito {
+    width: 190px;
+    height: 100px;
+
+}
+.cuadrito img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.bloque {
+    width: 400px;
+    height: 480px;
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.cuadrito2 {
+    width: 300px;
+    height: 400px;
+}
+.cuadrito img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
